@@ -27,6 +27,7 @@ To analyze HTTP traffic between a Windows host and a DSL virtual server using Wi
 
 ### 1. Interface Detection by Wireshark
 ![Wireshark Interfaces](https://i.imgur.com/9hDwoci.png)
+
 *Detected all active interfaces like Ethernet, VMnet1, VMnet8 before starting packet capture.*
 
 ---
