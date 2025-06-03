@@ -21,10 +21,9 @@ To analyze HTTP traffic between a Windows host and a DSL virtual server using Wi
 - TCP 3-way handshake observed.
 - Protocols like ICMPv6, DNS, and TCP were also present.
 - Confirmed browser caching behavior (e.g., HTTP 304 Not Modified).
+ 
 
-https://imgur.com/a/6x8oMKN 
-
-## 📸 Key Screenshots
+### 📸 Key Screenshots
 
 ### 1. Interface Detection by Wireshark
 ![Wireshark Interfaces](https://i.imgur.com/9hDwoci.png)
